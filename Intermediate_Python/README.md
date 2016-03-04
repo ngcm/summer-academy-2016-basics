@@ -17,18 +17,18 @@ Teaching material is largely in Jupyter Notebook format, and can be followed in 
 
 1. Cloning this repository with 
 
-> `git clone https://github.com/ngcm/summer-academy-2016.git`
+  > `git clone https://github.com/ngcm/summer-academy-2016.git`
 
-and viewing the 'Index.ipynb' as a live notebook slideshow with
+  and viewing the 'Index.ipynb' as a live notebook slideshow with
 
-> `jupyter notebook Index.ipynb`
+  > `jupyter notebook Index.ipynb`
 
-Links to exercise sheets is available from this Index notebook. This requires the [RISE](https://github.com/damianavila/RISE) package to be installed.
+  Links to exercise sheets is available from this Index notebook. This requires the [RISE](https://github.com/damianavila/RISE) package to be installed.
 
 2. Clone (as in 1.) and view the slides as a raw notebook (`View > Cell Toolbar > Raw Cell Format`)
 
 3. Clone (as in 1.) and view the static html slideshow with
 
-> `make serve`
+  > `make serve`
 
 4. Viewing directly on Github (not recommended)
