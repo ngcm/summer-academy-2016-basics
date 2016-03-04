@@ -23,7 +23,7 @@ Teaching material is largely in Jupyter Notebook format, and can be followed in 
 
   > `jupyter notebook Index.ipynb`
 
-  Links to exercise sheets is available from this Index notebook. This requires the [RISE](https://github.com/damianavila/RISE) package to be installed.
+  This requires the [RISE](https://github.com/damianavila/RISE) package to be installed.
 
 2. Clone (as in 1.) and view the slides as a raw notebook (`View > Cell Toolbar > Raw Cell Format`)
 
