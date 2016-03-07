@@ -9,7 +9,7 @@ Material in this repository is created for the purpose of teaching Python progra
 * Generators
 * Decorators
 
-These topics should prepare the reader for the (Summer Academy IPython course)[] having already participated in a similar SWC-style basics course.
+These topics should prepare the reader for the [Summer Academy IPython course](https://github.com/jupyter/ngcm-tutorial) having already participated in a similar SWC-style basics course.
 
 Getting Started
 ---------------
