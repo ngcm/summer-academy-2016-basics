@@ -17,7 +17,7 @@ The concepts of OOP are often covered lightly in undergraduate and basics course
 
 Software Requirements
 ---------------------
-Setup instructions for a range of users are available [here]()
+Setup instructions for a range of users are available [here](http://nbviewer.jupyter.org/github/p-chambers/summer-academy-2016/blob/master/Intermediate_Python/requirements.ipynb)
 
 Getting Started
 ---------------
@@ -35,5 +35,5 @@ Teaching material is largely in Jupyter Notebook format, and can be followed by 
 
   > `Kernel > Restart > Clear all outputs and restart`
 
-2. Viewing static material at [nbviewer](http://nbviewer.jupyter.org/github/ngcm/summer-academy-2016/blob/master/Intermediate_Python/index.ipynb)
+2. Viewing static material at [nbviewer](http://nbviewer.jupyter.org/github/p-chambers/summer-academy-2016/blob/master/Intermediate_Python/index.ipynb)
 
