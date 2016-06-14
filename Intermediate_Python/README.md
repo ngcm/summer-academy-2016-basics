@@ -22,9 +22,11 @@ Getting Started
 ---------------
 Teaching material is largely in Jupyter Notebook format, and can be followed by either:
 
-1. Cloning this repository with 
+1. Downloading the material from [GitHub](https://github.com/ngcm/summer-academy-2016-basics/archive/exercises_b.zip),
 
-  > `git clone https://github.com/p-chambers/summer-academy-2016.git`
+  navigating the main directory with
+
+  > `cd basics_B/Intermediate_Python`
 
   and viewing the 'index.ipynb' as a jupyter notebook with
 
