@@ -7,7 +7,6 @@ Material in this repository is created for the purpose of teaching Python progra
 	- Lists, For loops, functions, Numpy, Matplotlib
 * Tuples
 * Dictionaries
-* Generators
 * Object-oriented programming (OOP)
 
 These topics should prepare the reader for the [Summer Academy IPython course](https://github.com/jupyter/ngcm-tutorial) having already participated in a similar SWC-style basics course. 
@@ -17,7 +16,7 @@ The concepts of OOP are often covered lightly in undergraduate and basics course
 
 Software Requirements
 ---------------------
-Setup instructions for a range of users are available [here](http://nbviewer.jupyter.org/github/p-chambers/summer-academy-2016/blob/master/Intermediate_Python/requirements.ipynb)
+Setup instructions for a range of users are available [here](http://ngcm.github.io/summer-academy-2016-basics/indexpages/prerequisites.html)
 
 Getting Started
 ---------------
@@ -25,7 +24,7 @@ Teaching material is largely in Jupyter Notebook format, and can be followed by 
 
 1. Cloning this repository with 
 
-  > `git clone https://github.com/ngcm/summer-academy-2016.git`
+  > `git clone https://github.com/p-chambers/summer-academy-2016.git`
 
   and viewing the 'index.ipynb' as a jupyter notebook with
 
@@ -35,5 +34,5 @@ Teaching material is largely in Jupyter Notebook format, and can be followed by 
 
   > `Kernel > Restart > Clear all outputs and restart`
 
-2. Viewing static material at [nbviewer](http://nbviewer.jupyter.org/github/p-chambers/summer-academy-2016/blob/master/Intermediate_Python/index.ipynb)
+2. Viewing static material at [nbviewer](http://nbviewer.jupyter.org/github/ngcm/summer-academy-2016-basics/blob/gh-pages/basics_B/Intermediate_Python/index.ipynb)
 
