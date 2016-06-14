@@ -1,0 +1,5 @@
+#Name    Height    Weight
+John     180    80.5
+Paul     172    75.1
+George   185    78.6
+Ringo    170    76.5
